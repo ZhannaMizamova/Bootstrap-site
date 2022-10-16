@@ -1,0 +1,18 @@
+body{
+    height:100vh;
+}
+
+.row{
+    padding:2%;
+}
+
+.footer{
+    margin-top: 20px;
+    color:aliceblue;
+}
+
+#welcome{
+    padding:5%;
+}
+
+
